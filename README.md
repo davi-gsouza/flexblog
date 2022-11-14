@@ -1,4 +1,4 @@
-# Flexblog
+# FlexBlog
 
 **EN:** Final page developed for application of Flexbox fundamentals. Developed during the CSS Flexbox course at Origamid.
 
